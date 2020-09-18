@@ -23,7 +23,7 @@
     "core-js": "^2.6.5",
     "ethereumjs-util": "^6.2.0",
     "jsencrypt": "^3.0.0-rc.1",
-    "node-forge": "^0.9.1",
+    "node-forge": "^0.10.0",
     "nprogress": "^0.2.0",
     "vue": "^2.6.10",
     "vue-apexcharts": "^1.4.0",
